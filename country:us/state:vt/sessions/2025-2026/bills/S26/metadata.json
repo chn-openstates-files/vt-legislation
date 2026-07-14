@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-vt-2025_2026-s26"
+    }
+  ],
   "actions": [
     {
       "description": "Read 1st time & referred to Committee on Education",
@@ -32,6 +36,308 @@
       "_processing": {
         "log_file_created": "2025-11-27T08:47:48Z"
       }
+    },
+    {
+      "description": "Second Reading",
+      "date": "2026-03-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:18:31Z"
+      }
+    },
+    {
+      "description": "Favorable report with recommendation of amendment by Committee on Finance",
+      "date": "2026-03-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:18:31Z"
+      }
+    },
+    {
+      "description": "Unfinished Business/Second Reading",
+      "date": "2026-03-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:18:31Z"
+      }
+    },
+    {
+      "description": "Favorable report with recommendation of amendment by Committee on Health and Welfare",
+      "date": "2026-03-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:18:31Z"
+      }
+    },
+    {
+      "description": "Unfinished Business/Second Reading",
+      "date": "2026-03-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:18:31Z"
+      }
+    },
+    {
+      "description": "Favorable report with recommendation of amendment by Committee on Health and Welfare",
+      "date": "2026-03-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:18:31Z"
+      }
+    },
+    {
+      "description": "Ordered to lie on motion of Senator Lyons",
+      "date": "2026-03-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:18:31Z"
+      }
+    },
+    {
+      "description": "Ordered to lie",
+      "date": "2026-03-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:18:31Z"
+      }
+    },
+    {
+      "description": "Ordered to lie",
+      "date": "2026-03-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:18:31Z"
+      }
+    },
+    {
+      "description": "Ordered to lie",
+      "date": "2026-03-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:18:31Z"
+      }
+    },
+    {
+      "description": "Ordered to lie",
+      "date": "2026-03-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:18:31Z"
+      }
+    },
+    {
+      "description": "Ordered to lie",
+      "date": "2026-03-31",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:18:31Z"
+      }
+    },
+    {
+      "description": "Ordered to lie",
+      "date": "2026-04-01",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:18:31Z"
+      }
+    },
+    {
+      "description": "Ordered to lie",
+      "date": "2026-04-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:18:31Z"
+      }
+    },
+    {
+      "description": "Ordered to lie",
+      "date": "2026-04-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:18:31Z"
+      }
+    },
+    {
+      "description": "Ordered to lie",
+      "date": "2026-04-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:18:31Z"
+      }
+    },
+    {
+      "description": "Ordered to lie",
+      "date": "2026-04-08",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:18:31Z"
+      }
+    },
+    {
+      "description": "Ordered to lie",
+      "date": "2026-04-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:18:31Z"
+      }
+    },
+    {
+      "description": "Ordered to lie",
+      "date": "2026-04-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:18:31Z"
+      }
+    },
+    {
+      "description": "Ordered to lie",
+      "date": "2026-04-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:18:31Z"
+      }
+    },
+    {
+      "description": "Ordered to lie",
+      "date": "2026-04-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:18:31Z"
+      }
+    },
+    {
+      "description": "Ordered to lie",
+      "date": "2026-04-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:18:31Z"
+      }
+    },
+    {
+      "description": "Ordered to lie",
+      "date": "2026-04-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:18:31Z"
+      }
+    },
+    {
+      "description": "Ordered to lie",
+      "date": "2026-04-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:18:31Z"
+      }
+    },
+    {
+      "description": "Ordered to lie",
+      "date": "2026-04-22",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:18:31Z"
+      }
+    },
+    {
+      "description": "Ordered to lie",
+      "date": "2026-04-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:18:31Z"
+      }
+    },
+    {
+      "description": "Ordered to lie",
+      "date": "2026-04-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:18:31Z"
+      }
+    },
+    {
+      "description": "Ordered to lie",
+      "date": "2026-04-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:18:31Z"
+      }
+    },
+    {
+      "description": "Recommitted to Committee on Health and Welfare on motion of Senator Baruth",
+      "date": "2026-04-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:18:31Z"
+      }
     }
   ],
   "sponsorships": [
@@ -45,73 +351,73 @@
     },
     {
       "name": "Alison Clarkson",
-      "classification": "cosponsor",
+      "classification": "primary",
       "entity_type": "person",
-      "primary": false,
+      "primary": true,
       "person_id": "~{\"chamber\": \"upper\", \"name\": \"Alison Clarkson\"}",
       "organization_id": null
     },
     {
       "name": "Brian Collamore",
-      "classification": "cosponsor",
+      "classification": "primary",
       "entity_type": "person",
-      "primary": false,
+      "primary": true,
       "person_id": "~{\"chamber\": \"upper\", \"name\": \"Brian Collamore\"}",
       "organization_id": null
     },
     {
       "name": "Martine Gulick",
-      "classification": "cosponsor",
+      "classification": "primary",
       "entity_type": "person",
-      "primary": false,
+      "primary": true,
       "person_id": "~{\"chamber\": \"upper\", \"name\": \"Martine Gulick\"}",
       "organization_id": null
     },
     {
       "name": "Wendy Harrison",
-      "classification": "cosponsor",
+      "classification": "primary",
       "entity_type": "person",
-      "primary": false,
+      "primary": true,
       "person_id": "~{\"chamber\": \"upper\", \"name\": \"Wendy Harrison\"}",
       "organization_id": null
     },
     {
       "name": "Nader Hashim",
-      "classification": "cosponsor",
+      "classification": "primary",
       "entity_type": "person",
-      "primary": false,
+      "primary": true,
       "person_id": "~{\"chamber\": \"upper\", \"name\": \"Nader Hashim\"}",
       "organization_id": null
     },
     {
       "name": "Andrew Perchlik",
-      "classification": "cosponsor",
+      "classification": "primary",
       "entity_type": "person",
-      "primary": false,
+      "primary": true,
       "person_id": "~{\"chamber\": \"upper\", \"name\": \"Andrew Perchlik\"}",
       "organization_id": null
     },
     {
       "name": "Anne Watson",
-      "classification": "cosponsor",
+      "classification": "primary",
       "entity_type": "person",
-      "primary": false,
+      "primary": true,
       "person_id": "~{\"chamber\": \"upper\", \"name\": \"Anne Watson\"}",
       "organization_id": null
     },
     {
       "name": "Richard Westman",
-      "classification": "cosponsor",
+      "classification": "primary",
       "entity_type": "person",
-      "primary": false,
+      "primary": true,
       "person_id": "~{\"chamber\": \"upper\", \"name\": \"Richard Westman\"}",
       "organization_id": null
     },
     {
       "name": "Rebecca White",
-      "classification": "cosponsor",
+      "classification": "primary",
       "entity_type": "person",
-      "primary": false,
+      "primary": true,
       "person_id": "~{\"chamber\": \"upper\", \"name\": \"Rebecca White\"}",
       "organization_id": null
     }
@@ -119,10 +425,10 @@
   "related_bills": [],
   "versions": [
     {
-      "note": "As Introduced",
+      "note": "As IntroducedOpens in a new window",
       "links": [
         {
-          "url": "https://legislature.vermont.gov/Documents/2026/Docs/BILLS/S-0026/S-0026%20As%20Introduced.pdf",
+          "url": "http://legislature.vermont.gov/Documents/2026/Docs/BILLS/S-0026/S-0026%20As%20Introduced.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -181,6 +487,6 @@
     "division_id": "ocd-division/country:us/state:vt"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T08:47:48Z"
+    "logs_latest_update": "2026-07-14T13:18:31Z"
   }
 }

@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-vt-2025_2026-h84"
+    }
+  ],
   "actions": [
     {
       "description": "Read first time and referred to the Committee on Health Care",
@@ -21,6 +25,237 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T08:47:48Z"
+      }
+    },
+    {
+      "description": "Notice Calendar: Favorable",
+      "date": "2026-01-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:18:31Z"
+      }
+    },
+    {
+      "description": "Action Calendar: Favorable",
+      "date": "2026-01-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:18:31Z"
+      }
+    },
+    {
+      "description": "Read second time",
+      "date": "2026-01-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:18:31Z"
+      }
+    },
+    {
+      "description": "Rep. Berbeco of Winooski reported for the Committee on Health Care",
+      "date": "2026-01-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:18:31Z"
+      }
+    },
+    {
+      "description": "Third Reading ordered",
+      "date": "2026-01-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:18:31Z"
+      }
+    },
+    {
+      "description": "Action Calendar: Third Reading",
+      "date": "2026-01-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:18:31Z"
+      }
+    },
+    {
+      "description": "Read third time and passed",
+      "date": "2026-01-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:18:31Z"
+      }
+    },
+    {
+      "description": "Read 1st time & referred to Committee on Health and Welfare",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:18:31Z"
+      }
+    },
+    {
+      "description": "Entered on Notice Calendar",
+      "date": "2026-04-01",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:18:31Z"
+      }
+    },
+    {
+      "description": "Second Reading",
+      "date": "2026-04-01",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:18:31Z"
+      }
+    },
+    {
+      "description": "Favorable report by Committee on Health and Welfare",
+      "date": "2026-04-01",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:18:31Z"
+      }
+    },
+    {
+      "description": "New Business/Second Reading",
+      "date": "2026-04-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:18:31Z"
+      }
+    },
+    {
+      "description": "Favorable report by Committee on Health and Welfare",
+      "date": "2026-04-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:18:31Z"
+      }
+    },
+    {
+      "description": "Reported favorably by Senator Gulick for Committee on Health and Welfare, read 2nd time and 3rd reading ordered",
+      "date": "2026-04-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable",
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:18:31Z"
+      }
+    },
+    {
+      "description": "New Business/Third Reading",
+      "date": "2026-04-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:18:31Z"
+      }
+    },
+    {
+      "description": "Read 3rd time & passed in concurrence",
+      "date": "2026-04-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:18:31Z"
+      }
+    },
+    {
+      "description": "Senate Message: Passed in concurrence",
+      "date": "2026-04-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:18:31Z"
+      }
+    },
+    {
+      "description": "Delivered to the Governor on April 14, 2026",
+      "date": "2026-04-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:18:31Z"
+      }
+    },
+    {
+      "description": "Signed by Governor on April 20, 2026",
+      "date": "2026-04-21",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:18:31Z"
+      }
+    },
+    {
+      "description": "House message: Governor approved bill on April 20, 2026",
+      "date": "2026-04-22",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:18:31Z"
       }
     }
   ],
@@ -35,201 +270,201 @@
     },
     {
       "name": "Sarah \"Sarita\" Austin",
-      "classification": "cosponsor",
+      "classification": "primary",
       "entity_type": "person",
-      "primary": false,
+      "primary": true,
       "person_id": "~{\"chamber\": \"lower\", \"name\": \"Sarah \\\"Sarita\\\" Austin\"}",
       "organization_id": null
     },
     {
       "name": "Doug Bishop",
-      "classification": "cosponsor",
+      "classification": "primary",
       "entity_type": "person",
-      "primary": false,
+      "primary": true,
       "person_id": "~{\"chamber\": \"lower\", \"name\": \"Doug Bishop\"}",
       "organization_id": null
     },
     {
       "name": "Tiffany Bluemle",
-      "classification": "cosponsor",
+      "classification": "primary",
       "entity_type": "person",
-      "primary": false,
+      "primary": true,
       "person_id": "~{\"chamber\": \"lower\", \"name\": \"Tiffany Bluemle\"}",
       "organization_id": null
     },
     {
       "name": "Carolyn Branagan",
-      "classification": "cosponsor",
+      "classification": "primary",
       "entity_type": "person",
-      "primary": false,
+      "primary": true,
       "person_id": "~{\"chamber\": \"lower\", \"name\": \"Carolyn Branagan\"}",
       "organization_id": null
     },
     {
       "name": "Gregory Burtt",
-      "classification": "cosponsor",
+      "classification": "primary",
       "entity_type": "person",
-      "primary": false,
+      "primary": true,
       "person_id": "~{\"chamber\": \"lower\", \"name\": \"Gregory Burtt\"}",
       "organization_id": null
     },
     {
       "name": "R. Scott Campbell",
-      "classification": "cosponsor",
+      "classification": "primary",
       "entity_type": "person",
-      "primary": false,
+      "primary": true,
       "person_id": "~{\"chamber\": \"lower\", \"name\": \"R. Scott Campbell\"}",
       "organization_id": null
     },
     {
       "name": "Conor Casey",
-      "classification": "cosponsor",
+      "classification": "primary",
       "entity_type": "person",
-      "primary": false,
+      "primary": true,
       "person_id": "~{\"chamber\": \"lower\", \"name\": \"Conor Casey\"}",
       "organization_id": null
     },
     {
       "name": "Voranus Coffin IV",
-      "classification": "cosponsor",
+      "classification": "primary",
       "entity_type": "person",
-      "primary": false,
+      "primary": true,
       "person_id": "~{\"chamber\": \"lower\", \"name\": \"Voranus Coffin IV\"}",
       "organization_id": null
     },
     {
       "name": "Wendy Critchlow",
-      "classification": "cosponsor",
+      "classification": "primary",
       "entity_type": "person",
-      "primary": false,
+      "primary": true,
       "person_id": "~{\"chamber\": \"lower\", \"name\": \"Wendy Critchlow\"}",
       "organization_id": null
     },
     {
       "name": "Leonora Dodge",
-      "classification": "cosponsor",
+      "classification": "primary",
       "entity_type": "person",
-      "primary": false,
+      "primary": true,
       "person_id": "~{\"chamber\": \"lower\", \"name\": \"Leonora Dodge\"}",
       "organization_id": null
     },
     {
       "name": "Abbey Duke",
-      "classification": "cosponsor",
+      "classification": "primary",
       "entity_type": "person",
-      "primary": false,
+      "primary": true,
       "person_id": "~{\"chamber\": \"lower\", \"name\": \"Abbey Duke\"}",
       "organization_id": null
     },
     {
       "name": "William Greer",
-      "classification": "cosponsor",
+      "classification": "primary",
       "entity_type": "person",
-      "primary": false,
+      "primary": true,
       "person_id": "~{\"chamber\": \"lower\", \"name\": \"William Greer\"}",
       "organization_id": null
     },
     {
       "name": "Lisa Hango",
-      "classification": "cosponsor",
+      "classification": "primary",
       "entity_type": "person",
-      "primary": false,
+      "primary": true,
       "person_id": "~{\"chamber\": \"lower\", \"name\": \"Lisa Hango\"}",
       "organization_id": null
     },
     {
       "name": "James Harrison",
-      "classification": "cosponsor",
+      "classification": "primary",
       "entity_type": "person",
-      "primary": false,
+      "primary": true,
       "person_id": "~{\"chamber\": \"lower\", \"name\": \"James Harrison\"}",
       "organization_id": null
     },
     {
       "name": "Mark Higley",
-      "classification": "cosponsor",
+      "classification": "primary",
       "entity_type": "person",
-      "primary": false,
+      "primary": true,
       "person_id": "~{\"chamber\": \"lower\", \"name\": \"Mark Higley\"}",
       "organization_id": null
     },
     {
       "name": "Mary Howard",
-      "classification": "cosponsor",
+      "classification": "primary",
       "entity_type": "person",
-      "primary": false,
+      "primary": true,
       "person_id": "~{\"chamber\": \"lower\", \"name\": \"Mary Howard\"}",
       "organization_id": null
     },
     {
       "name": "Bram Kleppner",
-      "classification": "cosponsor",
+      "classification": "primary",
       "entity_type": "person",
-      "primary": false,
+      "primary": true,
       "person_id": "~{\"chamber\": \"lower\", \"name\": \"Bram Kleppner\"}",
       "organization_id": null
     },
     {
       "name": "Eric Maguire",
-      "classification": "cosponsor",
+      "classification": "primary",
       "entity_type": "person",
-      "primary": false,
+      "primary": true,
       "person_id": "~{\"chamber\": \"lower\", \"name\": \"Eric Maguire\"}",
       "organization_id": null
     },
     {
       "name": "Kate McCann",
-      "classification": "cosponsor",
+      "classification": "primary",
       "entity_type": "person",
-      "primary": false,
+      "primary": true,
       "person_id": "~{\"chamber\": \"lower\", \"name\": \"Kate McCann\"}",
       "organization_id": null
     },
     {
       "name": "Michael Morgan",
-      "classification": "cosponsor",
+      "classification": "primary",
       "entity_type": "person",
-      "primary": false,
+      "primary": true,
       "person_id": "~{\"chamber\": \"lower\", \"name\": \"Michael Morgan\"}",
       "organization_id": null
     },
     {
       "name": "Mary Morrissey",
-      "classification": "cosponsor",
+      "classification": "primary",
       "entity_type": "person",
-      "primary": false,
+      "primary": true,
       "person_id": "~{\"chamber\": \"lower\", \"name\": \"Mary Morrissey\"}",
       "organization_id": null
     },
     {
       "name": "Michael Mrowicki",
-      "classification": "cosponsor",
+      "classification": "primary",
       "entity_type": "person",
-      "primary": false,
+      "primary": true,
       "person_id": "~{\"chamber\": \"lower\", \"name\": \"Michael Mrowicki\"}",
       "organization_id": null
     },
     {
       "name": "Todd Nielsen",
-      "classification": "cosponsor",
+      "classification": "primary",
       "entity_type": "person",
-      "primary": false,
+      "primary": true,
       "person_id": "~{\"chamber\": \"lower\", \"name\": \"Todd Nielsen\"}",
       "organization_id": null
     },
     {
       "name": "Sandra Pinsonault",
-      "classification": "cosponsor",
+      "classification": "primary",
       "entity_type": "person",
-      "primary": false,
+      "primary": true,
       "person_id": "~{\"chamber\": \"lower\", \"name\": \"Sandra Pinsonault\"}",
       "organization_id": null
     },
     {
       "name": "Lawrence Satcowitz",
-      "classification": "cosponsor",
+      "classification": "primary",
       "entity_type": "person",
-      "primary": false,
+      "primary": true,
       "person_id": "~{\"chamber\": \"lower\", \"name\": \"Lawrence Satcowitz\"}",
       "organization_id": null
     }
@@ -237,10 +472,76 @@
   "related_bills": [],
   "versions": [
     {
-      "note": "As Introduced",
+      "note": "As IntroducedOpens in a new window",
       "links": [
         {
-          "url": "https://legislature.vermont.gov/Documents/2026/Docs/BILLS/H-0084/H-0084%20As%20Introduced.pdf",
+          "url": "http://legislature.vermont.gov/Documents/2026/Docs/BILLS/H-0084/H-0084%20As%20Introduced.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Passed By the House (OfficialOpens in a new window)",
+      "links": [
+        {
+          "url": "http://legislature.vermont.gov/Documents/2026/Docs/BILLS/H-0084/H-0084%20As%20passed%20by%20the%20House%20Official.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Passed By the House (UnofficialOpens in a new window)",
+      "links": [
+        {
+          "url": "http://legislature.vermont.gov/Documents/2026/Docs/BILLS/H-0084/H-0084%20As%20Passed%20by%20the%20House%20Unofficial.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Passed by Both House and Senate (OfficialOpens in a new window)",
+      "links": [
+        {
+          "url": "http://legislature.vermont.gov/Documents/2026/Docs/BILLS/H-0084/H-0084%20As%20Passed%20by%20Both%20House%20and%20Senate%20Official.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Passed by Both House and Senate (UnofficialOpens in a new window)",
+      "links": [
+        {
+          "url": "http://legislature.vermont.gov/Documents/2026/Docs/BILLS/H-0084/H-0084%20As%20Passed%20by%20Both%20House%20and%20Senate%20Unofficial.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As EnactedOpens in a new window",
+      "links": [
+        {
+          "url": "http://legislature.vermont.gov/Documents/2026/Docs/ACTS/ACT080/ACT080%20As%20Enacted.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Act SummaryOpens in a new window",
+      "links": [
+        {
+          "url": "http://legislature.vermont.gov/Documents/2026/Docs/ACTS/ACT080/ACT080%20Act%20Summary.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -299,6 +600,6 @@
     "division_id": "ocd-division/country:us/state:vt"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T08:47:48Z"
+    "logs_latest_update": "2026-07-14T13:18:31Z"
   }
 }

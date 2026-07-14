@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-vt-2025_2026-h393"
+    }
+  ],
   "actions": [
     {
       "description": "Read first time and referred to the Committee on Education",
@@ -21,6 +25,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T08:47:48Z"
+      }
+    },
+    {
+      "description": "Rep. Conlon of Cornwall moved that the Committee on Education be relieved of the bill and that the same be committed to the Committee on Health Care, which was agreed to",
+      "date": "2026-01-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:18:31Z"
       }
     }
   ],
@@ -35,65 +49,65 @@
     },
     {
       "name": "David Bosch",
-      "classification": "cosponsor",
+      "classification": "primary",
       "entity_type": "person",
-      "primary": false,
+      "primary": true,
       "person_id": "~{\"chamber\": \"lower\", \"name\": \"David Bosch\"}",
       "organization_id": null
     },
     {
       "name": "Voranus Coffin IV",
-      "classification": "cosponsor",
+      "classification": "primary",
       "entity_type": "person",
-      "primary": false,
+      "primary": true,
       "person_id": "~{\"chamber\": \"lower\", \"name\": \"Voranus Coffin IV\"}",
       "organization_id": null
     },
     {
       "name": "Joshua Dobrovich",
-      "classification": "cosponsor",
+      "classification": "primary",
       "entity_type": "person",
-      "primary": false,
+      "primary": true,
       "person_id": "~{\"chamber\": \"lower\", \"name\": \"Joshua Dobrovich\"}",
       "organization_id": null
     },
     {
       "name": "Leland Morgan",
-      "classification": "cosponsor",
+      "classification": "primary",
       "entity_type": "person",
-      "primary": false,
+      "primary": true,
       "person_id": "~{\"chamber\": \"lower\", \"name\": \"Leland Morgan\"}",
       "organization_id": null
     },
     {
       "name": "Richard Nelson",
-      "classification": "cosponsor",
+      "classification": "primary",
       "entity_type": "person",
-      "primary": false,
+      "primary": true,
       "person_id": "~{\"chamber\": \"lower\", \"name\": \"Richard Nelson\"}",
       "organization_id": null
     },
     {
-      "name": "Robert North",
-      "classification": "cosponsor",
+      "name": "Rob North",
+      "classification": "primary",
       "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Robert North\"}",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Rob North\"}",
       "organization_id": null
     },
     {
       "name": "Debra Powers",
-      "classification": "cosponsor",
+      "classification": "primary",
       "entity_type": "person",
-      "primary": false,
+      "primary": true,
       "person_id": "~{\"chamber\": \"lower\", \"name\": \"Debra Powers\"}",
       "organization_id": null
     },
     {
       "name": "Michael Tagliavia",
-      "classification": "cosponsor",
+      "classification": "primary",
       "entity_type": "person",
-      "primary": false,
+      "primary": true,
       "person_id": "~{\"chamber\": \"lower\", \"name\": \"Michael Tagliavia\"}",
       "organization_id": null
     }
@@ -101,10 +115,10 @@
   "related_bills": [],
   "versions": [
     {
-      "note": "As Introduced",
+      "note": "As IntroducedOpens in a new window",
       "links": [
         {
-          "url": "https://legislature.vermont.gov/Documents/2026/Docs/BILLS/H-0393/H-0393%20As%20Introduced.pdf",
+          "url": "http://legislature.vermont.gov/Documents/2026/Docs/BILLS/H-0393/H-0393%20As%20Introduced.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -163,6 +177,6 @@
     "division_id": "ocd-division/country:us/state:vt"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T08:47:48Z"
+    "logs_latest_update": "2026-07-14T13:18:31Z"
   }
 }

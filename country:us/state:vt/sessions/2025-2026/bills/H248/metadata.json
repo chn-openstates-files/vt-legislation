@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-vt-2025_2026-h248"
+    }
+  ],
   "actions": [
     {
       "description": "Read first time and referred to the Committee on Human Services",
@@ -232,6 +236,16 @@
       "_processing": {
         "log_file_created": "2025-11-27T08:47:48Z"
       }
+    },
+    {
+      "description": "Referred to Committee on Health and Welfare per Temporary Senate Rule 44A",
+      "date": "2026-01-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:18:31Z"
+      }
     }
   ],
   "sponsorships": [
@@ -245,9 +259,9 @@
     },
     {
       "name": "Daniel Noyes",
-      "classification": "cosponsor",
+      "classification": "primary",
       "entity_type": "person",
-      "primary": false,
+      "primary": true,
       "person_id": "~{\"chamber\": \"lower\", \"name\": \"Daniel Noyes\"}",
       "organization_id": null
     }
@@ -255,10 +269,10 @@
   "related_bills": [],
   "versions": [
     {
-      "note": "As Introduced",
+      "note": "As IntroducedOpens in a new window",
       "links": [
         {
-          "url": "https://legislature.vermont.gov/Documents/2026/Docs/BILLS/H-0248/H-0248%20As%20Introduced.pdf",
+          "url": "http://legislature.vermont.gov/Documents/2026/Docs/BILLS/H-0248/H-0248%20As%20Introduced.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -266,10 +280,10 @@
       "classification": ""
     },
     {
-      "note": "As Passed By the House (Official)",
+      "note": "As Passed By the House (OfficialOpens in a new window)",
       "links": [
         {
-          "url": "https://legislature.vermont.gov/Documents/2026/Docs/BILLS/H-0248/H-0248%20As%20passed%20by%20the%20House%20Official.pdf",
+          "url": "http://legislature.vermont.gov/Documents/2026/Docs/BILLS/H-0248/H-0248%20As%20passed%20by%20the%20House%20Official.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -277,10 +291,10 @@
       "classification": ""
     },
     {
-      "note": "As Passed By the House (Unofficial)",
+      "note": "As Passed By the House (UnofficialOpens in a new window)",
       "links": [
         {
-          "url": "https://legislature.vermont.gov/Documents/2026/Docs/BILLS/H-0248/H-0248%20As%20Passed%20by%20the%20House%20Unofficial.pdf",
+          "url": "http://legislature.vermont.gov/Documents/2026/Docs/BILLS/H-0248/H-0248%20As%20Passed%20by%20the%20House%20Unofficial.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -339,6 +353,6 @@
     "division_id": "ocd-division/country:us/state:vt"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T08:47:48Z"
+    "logs_latest_update": "2026-07-14T13:18:31Z"
   }
 }
